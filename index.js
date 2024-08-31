@@ -17,6 +17,9 @@ console.log(friends[0]);
 console.log(friends.length);
 console.log(friends);
 
+// Join use kora hoi array er moddeh kono sign daor jonno--->
+console.log(friends.join("--"));
+
 // Variable diye array k declare kora
 const fourth = friends[3];
 console.log(fourth);
